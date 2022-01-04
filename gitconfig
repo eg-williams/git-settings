@@ -1,0 +1,9 @@
+[user]
+	name = <myName>
+	email = <myEmail>
+[alias]
+	lg = log --graph --oneline --all --decorate --color
+[core]
+	editor = vim
+[init]
+	defaultBranch = root
